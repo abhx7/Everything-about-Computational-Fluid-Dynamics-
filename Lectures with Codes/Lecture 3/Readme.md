@@ -11,4 +11,4 @@
      ![Equation](https://quicklatex.com/cache3/48/ql_9c20a688b3e44100a6e049826502ba48_l3.png)
 
 - Condition Number : Ratio of relative error in f(x) to that of relative error in x. It relates to the problem's sensitivity to change in input values. Numerically unstable if the uncertainity of input values are magnified by numerical method.
--  
+-  Algorithm condition number vs Problem condition number (problems arise due to limitiation in digitized number representation)
