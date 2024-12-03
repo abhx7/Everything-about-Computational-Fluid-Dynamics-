@@ -17,10 +17,10 @@
   - Bracketing Methods: systematically reduce width of bracket, track error for convergence, Heron's method for root finding
     - Bisection (keep dividng the interval in 2 where atleast one root lies)
     - False position (one of the end points may remain fixed; can be modified by 'modifiying' it after a few iterations)
-    - 
-  Results are function dependent and are mostly expensive
+    
+    Results are function dependent and are mostly expensive
   - Open methods: systematic trial and error scheme, computationally efficient but no guarantee on convergence
-    - Open-point iteration (Picard iteration)
+    - Open-point iteration (Fixed point or Picard iteration) :  rewrite the non linear equation f(x) as a linear combination of x and f(x); the stop criteria is an or condition between if input change is less than epsilon or output of f(x) change is less than epsilon, the first should not be applied if the function is very flat and the other if the function is too steep
     - Newton-Raphson Method
     - Secant method
   - Roots of Polynomial
