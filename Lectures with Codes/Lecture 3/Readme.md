@@ -16,7 +16,7 @@
 - Roots of Non Linear Equations - with prior knowledge to find real roots only or finding all roots
   - Bracketing Methods: systematically reduce width of bracket, track error for convergence, Heron's method for root finding
     - Bisection (keep dividng the interval in 2 where atleast one root lies)
-    - False position (one of the end points may remain fixed; can be modified by 'modifiying' it after a few iterations)
+    - False position (one of the end points may remain fixed; can be modified by 'modifiying' it after a few iterations) [write an example code for this]
     
     Results are function dependent and are mostly expensive
   - Open methods: systematic trial and error scheme, computationally efficient but no guarantee on convergence
