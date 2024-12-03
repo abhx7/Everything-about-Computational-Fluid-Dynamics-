@@ -8,4 +8,4 @@
 
   -  Rounding
     
-    ![Equation](https://quicklatex.com/cache3/48/ql_9c20a688b3e44100a6e049826502ba48_l3.png)
+     ![Equation](https://quicklatex.com/cache3/48/ql_9c20a688b3e44100a6e049826502ba48_l3.png)
