@@ -20,7 +20,7 @@
     
     Results are function dependent and are mostly expensive
   - Open methods: systematic trial and error scheme, computationally efficient but no guarantee on convergence
-    - Open-point iteration (Fixed point or Picard iteration) :  rewrite the non linear equation f(x) as a linear combination of x and f(x); the stop criteria is an or condition between if input change is less than epsilon or output of f(x) change is less than epsilon, the first should not be applied if the function is very flat and the other if the function is too steep
+    - Open-point iteration (Fixed point or Picard iteration) :  rewrite the non linear equation f(x) as a linear combination of x and f(x), the c value should be chosen appropriately in x + c*f(x); the stop criteria is an or condition between if input change is less than epsilon or output of f(x) change is less than epsilon, the first should not be applied if the function is very flat and the other if the function is too steep
     - Newton-Raphson Method
     - Secant method
   - Roots of Polynomial
