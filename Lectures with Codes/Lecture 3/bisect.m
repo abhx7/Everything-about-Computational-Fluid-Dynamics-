@@ -10,6 +10,9 @@ x2=1.5;
 x=[x1 x2];
 eps=1e-3;
 err=max(abs(x(1)-x(2)),abs(f(x(1),a)-f(x(2),a)));
+hold off
+plot(-1:2, f(-1:2,a))
+hold on
 while (err>eps & f(x(1),a)*f(x(2),a) <= 0)
     xo=x;
     x=[xo(1) 0.5*(xo(1)+xo(2))];
