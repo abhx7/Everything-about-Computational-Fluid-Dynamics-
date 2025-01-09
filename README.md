@@ -8,3 +8,5 @@ https://www.linkedin.com/posts/aliyar-javadi-4b078124_cfd-fluiddynamics-mechanic
 Course - https://www.tfd.chalmers.se/~hani/kurser/OS_CFD/
 
 Find some DNS databases here - https://home.iitm.ac.in/vagesh/links.html
+
+Fluid Dynamics Modeling: isoVelocity Elements - https://www.linkedin.com/posts/aliyar-javadi-4b078124_fluiddynamics-fluidmechanics-heattransfer-ugcPost-7283070122280271873-HtxR?utm_source=share&utm_medium=member_android
