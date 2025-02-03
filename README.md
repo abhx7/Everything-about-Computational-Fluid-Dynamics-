@@ -25,3 +25,5 @@ CFD Book - https://www.engineered-mind.com/book-notes/
 Guide to CFD Podcast - https://www.youtube.com/watch?v=H2orUUhRrZs
 
 RANS Turbulence Modelling - https://www.linkedin.com/posts/rajat-walia_cfd-turbulence-mechanical-activity-7288057889754095616-9SvA/?utm_source=share&utm_medium=member_android
+
+FEM Solver tips - https://www.linkedin.com/posts/aerosayan_persson-2002-activity-7278776388180959232-5Qpl?utm_source=share&utm_medium=member_android
