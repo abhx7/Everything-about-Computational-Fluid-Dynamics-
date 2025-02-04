@@ -22,6 +22,8 @@ NACA-0012 airfoil simulation with deploying spoiler! - https://www.linkedin.com/
 
 CFD Book - https://www.engineered-mind.com/book-notes/
 
+AMR in StarCCM+ visualise - https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_cfd-siemens-aerodynamics-activity-7292482032553582592-U_f_?utm_source=share&utm_medium=member_android
+
 Guide to CFD Podcast - https://www.youtube.com/watch?v=H2orUUhRrZs
 
 RANS Turbulence Modelling - https://www.linkedin.com/posts/rajat-walia_cfd-turbulence-mechanical-activity-7288057889754095616-9SvA/?utm_source=share&utm_medium=member_android
