@@ -29,3 +29,13 @@ Guide to CFD Podcast - https://www.youtube.com/watch?v=H2orUUhRrZs
 RANS Turbulence Modelling - https://www.linkedin.com/posts/rajat-walia_cfd-turbulence-mechanical-activity-7288057889754095616-9SvA/?utm_source=share&utm_medium=member_android
 
 FEM Solver tips - https://www.linkedin.com/posts/aerosayan_persson-2002-activity-7278776388180959232-5Qpl?utm_source=share&utm_medium=member_android
+
+Aerodynamics Experiment! Flow over airfoil at 30 degrees Angle Of Attack. Wing Stall flow visualization. - https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-aerospace-activity-7286993435138367488-Fp2x/?utm_source=share&utm_medium=member_android - https://www.youtube.com/watch?v=qbMg1G3oTVY
+
+Learning ML - https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_cfd-fluidmechanics-aerospace-activity-7293161509503778817-5Uha/?utm_source=share&utm_medium=member_android - https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/
+
+Latest in CFD - https://www.linkedin.com/posts/jousefmurad_engineering-cfd-simulation-activity-7291359445622636544-dp1W/?utm_source=share&utm_medium=member_android
+
+Common Errors in CFD - https://www.linkedin.com/posts/jousefmurad_engineering-cfd-simulation-activity-7291359445622636544-dp1W/?utm_source=share&utm_medium=member_android
+
+Exploring Aerodynamics: From Wind Tunnels to Bird Flight 🏎️🦅 - https://www.linkedin.com/posts/hamdy-mohamed-6b65a2239_wind-tunnel-and-bird-flight-activity-7292181855913525248-aNZR/?utm_source=share&utm_medium=member_android
