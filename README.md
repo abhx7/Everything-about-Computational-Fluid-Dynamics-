@@ -39,3 +39,5 @@ Latest in CFD - https://www.linkedin.com/posts/jousefmurad_engineering-cfd-simul
 Common Errors in CFD - https://www.linkedin.com/posts/jousefmurad_engineering-cfd-simulation-activity-7291359445622636544-dp1W/?utm_source=share&utm_medium=member_android
 
 Exploring Aerodynamics: From Wind Tunnels to Bird Flight 🏎️🦅 - https://www.linkedin.com/posts/hamdy-mohamed-6b65a2239_wind-tunnel-and-bird-flight-activity-7292181855913525248-aNZR/?utm_source=share&utm_medium=member_android
+
+Residuals relation with convergence - https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalengineering-cfd-activity-7294934316873134080-XakI/?utm_source=share&utm_medium=member_android
