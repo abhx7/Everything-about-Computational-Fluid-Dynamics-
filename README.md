@@ -43,3 +43,5 @@ Exploring Aerodynamics: From Wind Tunnels to Bird Flight 🏎️🦅 - https://w
 Residuals relation with convergence - https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalengineering-cfd-activity-7294934316873134080-XakI/?utm_source=share&utm_medium=member_android
 
 Significance of Non Dimensional Numbers - https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-aerospace-activity-7293856068546306048-wnpr/?utm_source=share&utm_medium=member_android
+
+Flow past 3D cylinder - https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalengineering-cfd-activity-7291724282307526656-noTG/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
