@@ -45,3 +45,5 @@ Residuals relation with convergence - https://www.linkedin.com/posts/rajat-walia
 Significance of Non Dimensional Numbers - https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-aerospace-activity-7293856068546306048-wnpr/?utm_source=share&utm_medium=member_android
 
 Flow past 3D cylinder - https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalengineering-cfd-activity-7291724282307526656-noTG/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+Errors and Grid dependency - https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7295683368321437698-ltrc/?utm_source=share&utm_medium=member_android
