@@ -8,6 +8,8 @@ Applied CFD - https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalen
 
 ## References
 
+Step by Step CFD Process - https://www.linkedin.com/posts/rajat-walia_cfd-simulation-mechanical-activity-7297842357389955073-4I9c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
 https://www.linkedin.com/posts/aliyar-javadi-4b078124_cfd-fluiddynamics-mechanicalengineering-activity-7271164209789390848-LA1K/?utm_source=share&utm_medium=member_android
 
 Course - https://www.tfd.chalmers.se/~hani/kurser/OS_CFD/
@@ -47,3 +49,5 @@ Significance of Non Dimensional Numbers - https://www.linkedin.com/posts/rajat-w
 Flow past 3D cylinder - https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalengineering-cfd-activity-7291724282307526656-noTG/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
 
 Errors and Grid dependency - https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7295683368321437698-ltrc/?utm_source=share&utm_medium=member_android
+
+Navier Stokes Equation - https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-mechanicalengineering-activity-7297200990796058624-4K42/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
