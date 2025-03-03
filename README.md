@@ -1,10 +1,14 @@
 # CFD-
 
+Overview: ML Models for Computational Fluid Dynamics Simulation - https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_fea-cfd-ai-activity-7299729822115594241-81J8/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ  (https://hodgesj.substack.com/p/overview-ml-models-for-computational)
+
 Topics of CFD (https://www.linkedin.com/posts/rajat-walia_computationalfluiddynamics-cfd-aerospace-activity-7285174723108335618-J7Vh/?utm_source=share&utm_medium=member_android)
 can be used to learn too as resource
 
 AI/ML in CFD - https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_ai-cfd-sciml-activity-7280980171866705920-tFUZ/?utm_source=share&utm_medium=member_android
 Applied CFD - https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalengineering-aerodynamics-activity-7287333099590299648-8fVK?utm_source=share&utm_medium=member_android
+
+https://www.learncax.com/courses.html
 
 ## References
 
@@ -53,3 +57,7 @@ Errors and Grid dependency - https://www.linkedin.com/posts/rajat-walia_mechanic
 Navier Stokes Equation - https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-mechanicalengineering-activity-7297200990796058624-4K42/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
 
 Y+ Calculation - https://www.linkedin.com/posts/rajat-walia_cfd-turbulencemodeling-engineering-activity-7301626001367674881-Cnbf/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+CFD Fundaes - https://www.linkedin.com/posts/suraj-thakur-2062421ba_here-is-a-document-for-your-reference-activity-7301223929296101376-h0wf/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+Estimate Y+ and Mesh Sizing - https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7301521611843674112-N_Y1/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
