@@ -51,3 +51,5 @@ Flow past 3D cylinder - https://www.linkedin.com/posts/rajat-walia_mechanical-me
 Errors and Grid dependency - https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7295683368321437698-ltrc/?utm_source=share&utm_medium=member_android
 
 Navier Stokes Equation - https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-mechanicalengineering-activity-7297200990796058624-4K42/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+Y+ Calculation - https://www.linkedin.com/posts/rajat-walia_cfd-turbulencemodeling-engineering-activity-7301626001367674881-Cnbf/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
