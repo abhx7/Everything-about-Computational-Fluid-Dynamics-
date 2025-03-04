@@ -61,3 +61,5 @@ Y+ Calculation - https://www.linkedin.com/posts/rajat-walia_cfd-turbulencemodeli
 CFD Fundaes - https://www.linkedin.com/posts/suraj-thakur-2062421ba_here-is-a-document-for-your-reference-activity-7301223929296101376-h0wf/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
 
 Estimate Y+ and Mesh Sizing - https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7301521611843674112-N_Y1/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+Heat Conduction Simple CFD - https://www.linkedin.com/posts/asad-saleem-897146239_explicit-1d-heat-condtion-activity-7301455308856434688-lAjo?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
