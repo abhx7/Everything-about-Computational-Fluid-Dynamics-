@@ -63,3 +63,7 @@ CFD Fundaes - https://www.linkedin.com/posts/suraj-thakur-2062421ba_here-is-a-do
 Estimate Y+ and Mesh Sizing - https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7301521611843674112-N_Y1/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
 
 Heat Conduction Simple CFD - https://www.linkedin.com/posts/asad-saleem-897146239_explicit-1d-heat-condtion-activity-7301455308856434688-lAjo?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+Example Reynolds values - https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-automotive-activity-7303682296413335552-IYWs?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+Lessons for Meshing - https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7302915770806648832-Lg49/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
