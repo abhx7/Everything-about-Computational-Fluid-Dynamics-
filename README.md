@@ -67,3 +67,11 @@ Heat Conduction Simple CFD - https://www.linkedin.com/posts/asad-saleem-89714623
 Example Reynolds values - https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-automotive-activity-7303682296413335552-IYWs?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
 
 Lessons for Meshing - https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7302915770806648832-Lg49/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+CFD study of what happens to the drag coefficient of a Mercedes Atego box truck when different aerodynamic improvements are implemented - https://www.linkedin.com/posts/emintolukan_reduction-of-box-truck-drag-coefficient-activity-7303383171947982849-QmZn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+non newtonian fluid and viscous flow - https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-automotive-activity-7304382444491657217--h-u/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+aerodynamic optimization of a high-lift airfoil, specifically the NHLP. - https://www.linkedin.com/posts/lorenzo-lucatello-6761881bb_cfd-report-activity-7304788185581019137-m-Ts/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+CHT - https://www.linkedin.com/posts/himanshi-rana-aero_aerospace-engineering-mechanical-activity-7304871876705619970-CeFT/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
