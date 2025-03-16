@@ -75,3 +75,5 @@ non newtonian fluid and viscous flow - https://www.linkedin.com/posts/rajat-wali
 aerodynamic optimization of a high-lift airfoil, specifically the NHLP. - https://www.linkedin.com/posts/lorenzo-lucatello-6761881bb_cfd-report-activity-7304788185581019137-m-Ts/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
 
 CHT - https://www.linkedin.com/posts/himanshi-rana-aero_aerospace-engineering-mechanical-activity-7304871876705619970-CeFT/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+Start CFD coding - https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
