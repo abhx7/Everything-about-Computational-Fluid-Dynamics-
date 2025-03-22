@@ -45,6 +45,7 @@
 ## 🎥 Videos
 - [Guide to CFD Podcast](https://www.youtube.com/watch?v=H2orUUhRrZs)
 - [Aerodynamics Experiment - Flow Over Airfoil at 30° AOA](https://www.youtube.com/watch?v=qbMg1G3oTVY)
+- [Animation of Large-Eddy Simulation of Flow Around a Smooth Sphere at Re = 50,000](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7307626820781125633-6MyW/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - 
 ## 🛠 Miscellaneous
 - [Start CFD Coding](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
