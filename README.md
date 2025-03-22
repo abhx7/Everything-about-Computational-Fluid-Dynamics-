@@ -24,7 +24,7 @@
 - [Residuals Relation with Convergence](https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalengineering-cfd-activity-7294934316873134080-XakI/?utm_source=share&utm_medium=member_android)
 - [Significance of Non-Dimensional Numbers](https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-aerospace-activity-7293856068546306048-wnpr/?utm_source=share&utm_medium=member_android)
 - [Non Newtonian fluid and Viscous flow](https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-automotive-activity-7304382444491657217--h-u/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [Burgers' Equation](https://www.linkedin.com/posts/himanshi-rana-aero_cfd-navierstokes-fluidmechanics-activity-7307412303237259265-cKTj/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## 📖 References
 - [Step by Step CFD Process](https://www.linkedin.com/posts/rajat-walia_cfd-simulation-mechanical-activity-7297842357389955073-4I9c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
