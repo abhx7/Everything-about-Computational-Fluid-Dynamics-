@@ -35,13 +35,16 @@
 - [Heat Conduction Simple CFD](https://www.linkedin.com/posts/asad-saleem-897146239_explicit-1d-heat-condtion-activity-7301455308856434688-lAjo?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [FEM Solver tips](https://www.linkedin.com/posts/aerosayan_persson-2002-activity-7278776388180959232-5Qpl?utm_source=share&utm_medium=member_android)
 - [Drag coefficients of different shapes in air at Reynolds number](https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-automotive-activity-7303682296413335552-IYWs?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-- 
+- [AI/ML in CFD Literature Review](https://www.linkedin.com/posts/krishna-teja-7005aa158_simscape-multibody-vehicledynamics-ugcPost-7312343381127372801-stKA/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [PINNs in CFD](https://www.linkedin.com/posts/rajat-walia_mechanical-cfd-aerodynamics-activity-7313062635430629376-ENL-/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+  
 ## 🔧 Tools & Simulations
 - [NACA-0012 Airfoil Simulation with Deploying Spoiler](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_mechanicalengineering-aerospace-aerodynamics-activity-7281610390759718912-Khos/?utm_source=share&utm_medium=member_android)
 - [Flow Past 3D Cylinder](https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalengineering-cfd-activity-7291724282307526656-noTG/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Aerodynamic Optimization of a High-Lift Airfoil](https://www.linkedin.com/posts/lorenzo-lucatello-6761881bb_cfd-report-activity-7304788185581019137-m-Ts/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Visualise turbulence in CFD](https://www.linkedin.com/posts/s-gross_meshedpotato-simcenter-cfd-ugcPost-7284485722009399296-M5mS/?utm_source=share&utm_medium=member_android)
 - [AMR in StarCCM+ visualisation](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_cfd-siemens-aerodynamics-activity-7292482032553582592-U_f_?utm_source=share&utm_medium=member_android)
+-  [CFD in MATLAB](https://github.com/MathWorks-Teaching-Resources/Computational-Fluid-Dynamics)
 
 ## 🎥 Videos
 - [Guide to CFD Podcast](https://www.youtube.com/watch?v=H2orUUhRrZs)
@@ -55,7 +58,7 @@
 - [CFD study of what happens to the drag coefficient of a Mercedes Atego box truck when different aerodynamic improvements are implemented](https://www.linkedin.com/posts/emintolukan_reduction-of-box-truck-drag-coefficient-activity-7303383171947982849-QmZn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [CHT](https://www.linkedin.com/posts/himanshi-rana-aero_aerospace-engineering-mechanical-activity-7304871876705619970-CeFT/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Finite Element Method (FEM)](https://www.linkedin.com/posts/lonny-thompson_numerical-integration-of-quad4-elements-activity-7309557610351915008-1dje/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [Paradoxical Nature of Turbulent Flows at High Reynolds Number: Inviscid Behavior due to High Viscous Dissipations](https://www.linkedin.com/posts/aliyar-javadi-4b078124_fluiddynamics-mechanicalengineering-aerospace-activity-7312149838651904000-3Td4/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 
 
