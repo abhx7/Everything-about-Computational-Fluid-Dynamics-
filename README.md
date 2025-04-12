@@ -37,6 +37,7 @@
 - [Drag coefficients of different shapes in air at Reynolds number](https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-automotive-activity-7303682296413335552-IYWs?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [AI/ML in CFD Literature Review](https://www.linkedin.com/posts/krishna-teja-7005aa158_simscape-multibody-vehicledynamics-ugcPost-7312343381127372801-stKA/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [PINNs in CFD](https://www.linkedin.com/posts/rajat-walia_mechanical-cfd-aerodynamics-activity-7313062635430629376-ENL-/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Machine Learning Models for CFD Simulations](https://www.linkedin.com/posts/rajat-walia_cfd-mechanical-machinelearning-activity-7315236966281748480-TPF6/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
   
 ## 🔧 Tools & Simulations
 - [NACA-0012 Airfoil Simulation with Deploying Spoiler](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_mechanicalengineering-aerospace-aerodynamics-activity-7281610390759718912-Khos/?utm_source=share&utm_medium=member_android)
@@ -50,7 +51,7 @@
 - [Guide to CFD Podcast](https://www.youtube.com/watch?v=H2orUUhRrZs)
 - [Aerodynamics Experiment - Flow Over Airfoil at 30° AOA](https://www.youtube.com/watch?v=qbMg1G3oTVY)
 - [Animation of Large-Eddy Simulation of Flow Around a Smooth Sphere at Re = 50,000](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7307626820781125633-6MyW/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-- 
+ 
 ## 🛠 Miscellaneous
 - [Start CFD Coding](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Latest in CFD](https://www.linkedin.com/posts/jousefmurad_engineering-cfd-simulation-activity-7291359445622636544-dp1W/?utm_source=share&utm_medium=member_android)
