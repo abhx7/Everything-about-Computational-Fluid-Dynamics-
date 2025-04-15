@@ -26,6 +26,7 @@
 - [Significance of Non-Dimensional Numbers](https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-aerospace-activity-7293856068546306048-wnpr/?utm_source=share&utm_medium=member_android)
 - [Non Newtonian fluid and Viscous flow](https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-automotive-activity-7304382444491657217--h-u/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Burgers' Equation](https://www.linkedin.com/posts/himanshi-rana-aero_cfd-navierstokes-fluidmechanics-activity-7307412303237259265-cKTj/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [SIMPLE Method for solving Incompressible Navier Stokes](https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-aerospace-activity-7317407253962100736-yI0K/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## 📖 References
 - [Step by Step CFD Process](https://www.linkedin.com/posts/rajat-walia_cfd-simulation-mechanical-activity-7297842357389955073-4I9c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
@@ -60,6 +61,6 @@
 - [CHT](https://www.linkedin.com/posts/himanshi-rana-aero_aerospace-engineering-mechanical-activity-7304871876705619970-CeFT/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Finite Element Method (FEM)](https://www.linkedin.com/posts/lonny-thompson_numerical-integration-of-quad4-elements-activity-7309557610351915008-1dje/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Paradoxical Nature of Turbulent Flows at High Reynolds Number: Inviscid Behavior due to High Viscous Dissipations](https://www.linkedin.com/posts/aliyar-javadi-4b078124_fluiddynamics-mechanicalengineering-aerospace-activity-7312149838651904000-3Td4/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [CFD Contributions to A380 development!](https://www.linkedin.com/posts/rajat-walia_cfd-mechanical-aerospace-activity-7317792557541859328-emDr/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 
