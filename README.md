@@ -27,7 +27,8 @@
 - [Non Newtonian fluid and Viscous flow](https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-automotive-activity-7304382444491657217--h-u/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Burgers' Equation](https://www.linkedin.com/posts/himanshi-rana-aero_cfd-navierstokes-fluidmechanics-activity-7307412303237259265-cKTj/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [SIMPLE Method for solving Incompressible Navier Stokes](https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-aerospace-activity-7317407253962100736-yI0K/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [Couette and Poiseulle Flow](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7314149804090003456-5YFp/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+  
 ## 📖 References
 - [Step by Step CFD Process](https://www.linkedin.com/posts/rajat-walia_cfd-simulation-mechanical-activity-7297842357389955073-4I9c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [DNS Databases](https://home.iitm.ac.in/vagesh/links.html)
@@ -39,6 +40,7 @@
 - [AI/ML in CFD Literature Review](https://www.linkedin.com/posts/krishna-teja-7005aa158_simscape-multibody-vehicledynamics-ugcPost-7312343381127372801-stKA/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [PINNs in CFD](https://www.linkedin.com/posts/rajat-walia_mechanical-cfd-aerodynamics-activity-7313062635430629376-ENL-/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Machine Learning Models for CFD Simulations](https://www.linkedin.com/posts/rajat-walia_cfd-mechanical-machinelearning-activity-7315236966281748480-TPF6/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [AI/ML in CFD Solvers repository!](https://www.linkedin.com/posts/rajat-walia_cfd-mechanical-machinelearning-activity-7318136082959683584-Yn-l/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
   
 ## 🔧 Tools & Simulations
 - [NACA-0012 Airfoil Simulation with Deploying Spoiler](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_mechanicalengineering-aerospace-aerodynamics-activity-7281610390759718912-Khos/?utm_source=share&utm_medium=member_android)
@@ -46,7 +48,7 @@
 - [Aerodynamic Optimization of a High-Lift Airfoil](https://www.linkedin.com/posts/lorenzo-lucatello-6761881bb_cfd-report-activity-7304788185581019137-m-Ts/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Visualise turbulence in CFD](https://www.linkedin.com/posts/s-gross_meshedpotato-simcenter-cfd-ugcPost-7284485722009399296-M5mS/?utm_source=share&utm_medium=member_android)
 - [AMR in StarCCM+ visualisation](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_cfd-siemens-aerodynamics-activity-7292482032553582592-U_f_?utm_source=share&utm_medium=member_android)
--  [CFD in MATLAB](https://github.com/MathWorks-Teaching-Resources/Computational-Fluid-Dynamics)
+- [CFD in MATLAB](https://github.com/MathWorks-Teaching-Resources/Computational-Fluid-Dynamics)
 
 ## 🎥 Videos
 - [Guide to CFD Podcast](https://www.youtube.com/watch?v=H2orUUhRrZs)
