@@ -28,7 +28,8 @@
 - [Burgers' Equation](https://www.linkedin.com/posts/himanshi-rana-aero_cfd-navierstokes-fluidmechanics-activity-7307412303237259265-cKTj/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [SIMPLE Method for solving Incompressible Navier Stokes](https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-aerospace-activity-7317407253962100736-yI0K/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Couette and Poiseulle Flow](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7314149804090003456-5YFp/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-  
+- [Why Non-Dimensional Numbers Matter in Fluid Mechanics](https://www.linkedin.com/posts/sijalahmed_cfd-fluidmechanics-engineering-activity-7322851938344038401-XrCe/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+
 ## 📖 References
 - [Step by Step CFD Process](https://www.linkedin.com/posts/rajat-walia_cfd-simulation-mechanical-activity-7297842357389955073-4I9c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [DNS Databases](https://home.iitm.ac.in/vagesh/links.html)
@@ -41,6 +42,7 @@
 - [PINNs in CFD](https://www.linkedin.com/posts/rajat-walia_mechanical-cfd-aerodynamics-activity-7313062635430629376-ENL-/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Machine Learning Models for CFD Simulations](https://www.linkedin.com/posts/rajat-walia_cfd-mechanical-machinelearning-activity-7315236966281748480-TPF6/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [AI/ML in CFD Solvers repository!](https://www.linkedin.com/posts/rajat-walia_cfd-mechanical-machinelearning-activity-7318136082959683584-Yn-l/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Computational Fluid Dynamics: Basics, Mathematical Foundations, and Industrial Applications](https://www.everyeng.com/blog/a509b413/computational-fluid-dynamics-basics-mathematical-foundations-and-industrial-applications)
   
 ## 🔧 Tools & Simulations
 - [NACA-0012 Airfoil Simulation with Deploying Spoiler](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_mechanicalengineering-aerospace-aerodynamics-activity-7281610390759718912-Khos/?utm_source=share&utm_medium=member_android)
@@ -49,6 +51,7 @@
 - [Visualise turbulence in CFD](https://www.linkedin.com/posts/s-gross_meshedpotato-simcenter-cfd-ugcPost-7284485722009399296-M5mS/?utm_source=share&utm_medium=member_android)
 - [AMR in StarCCM+ visualisation](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_cfd-siemens-aerodynamics-activity-7292482032553582592-U_f_?utm_source=share&utm_medium=member_android)
 - [CFD in MATLAB](https://github.com/MathWorks-Teaching-Resources/Computational-Fluid-Dynamics)
+- [Aerospace Tools for Simulation, Design, and Analysis](https://www.linkedin.com/posts/dhruvaerospace_aerospace-tools-for-simulation-design-and-activity-7319614083069018113-9nYk/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## 🎥 Videos
 - [Guide to CFD Podcast](https://www.youtube.com/watch?v=H2orUUhRrZs)
@@ -64,5 +67,5 @@
 - [Finite Element Method (FEM)](https://www.linkedin.com/posts/lonny-thompson_numerical-integration-of-quad4-elements-activity-7309557610351915008-1dje/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Paradoxical Nature of Turbulent Flows at High Reynolds Number: Inviscid Behavior due to High Viscous Dissipations](https://www.linkedin.com/posts/aliyar-javadi-4b078124_fluiddynamics-mechanicalengineering-aerospace-activity-7312149838651904000-3Td4/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [CFD Contributions to A380 development!](https://www.linkedin.com/posts/rajat-walia_cfd-mechanical-aerospace-activity-7317792557541859328-emDr/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [Turbulence modeling summary!](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7322484714290716672-8Qro/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
