@@ -27,6 +27,7 @@
 - [Non Newtonian fluid and Viscous flow](https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-automotive-activity-7304382444491657217--h-u/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Burgers' Equation](https://www.linkedin.com/posts/himanshi-rana-aero_cfd-navierstokes-fluidmechanics-activity-7307412303237259265-cKTj/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [SIMPLE Method for solving Incompressible Navier Stokes](https://www.linkedin.com/posts/rajat-walia_mechanicalengineering-mechanical-aerospace-activity-7317407253962100736-yI0K/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+  [SIMPLE Algorithm](https://www.linkedin.com/posts/mvusi-mugaba-424577206_cfd-automotive-fluiddynamics-activity-7324466108650975233--zld/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Couette and Poiseulle Flow](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7314149804090003456-5YFp/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Why Non-Dimensional Numbers Matter in Fluid Mechanics](https://www.linkedin.com/posts/sijalahmed_cfd-fluidmechanics-engineering-activity-7322851938344038401-XrCe/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
@@ -53,11 +54,13 @@
 - [CFD in MATLAB](https://github.com/MathWorks-Teaching-Resources/Computational-Fluid-Dynamics)
 - [Aerospace Tools for Simulation, Design, and Analysis](https://www.linkedin.com/posts/dhruvaerospace_aerospace-tools-for-simulation-design-and-activity-7319614083069018113-9nYk/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
-## 🎥 Videos
+## 🎥 Videos and Visualisation
 - [Guide to CFD Podcast](https://www.youtube.com/watch?v=H2orUUhRrZs)
 - [Aerodynamics Experiment - Flow Over Airfoil at 30° AOA](https://www.youtube.com/watch?v=qbMg1G3oTVY)
 - [Animation of Large-Eddy Simulation of Flow Around a Smooth Sphere at Re = 50,000](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7307626820781125633-6MyW/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
- 
+- [Supersonic flow around cylinder (Mach 3)](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_cfd-aerodynamics-engineering-activity-7324387271170797568-npSu/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [supersonic T-38 aircraft flying in formation using Schlieren photography technique](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7323984180676087808-nKjM/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+
 ## 🛠 Miscellaneous
 - [Start CFD Coding](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Latest in CFD](https://www.linkedin.com/posts/jousefmurad_engineering-cfd-simulation-activity-7291359445622636544-dp1W/?utm_source=share&utm_medium=member_android)
