@@ -18,6 +18,7 @@
 - [Meshing Process](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7310163528336715776-gUsx/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Errors and Grid dependency](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7295683368321437698-ltrc/?utm_source=share&utm_medium=member_android)
 - [Y+ Calculation](https://www.linkedin.com/posts/rajat-walia_cfd-turbulencemodeling-engineering-activity-7301626001367674881-Cnbf/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Y+ Value — Improve CFD Accuracy with Correct Mesh Resolution](https://www.linkedin.com/posts/anupriya-r-cae_boundarylayer-simulation-mechanical-activity-7325017657018064901--8eL/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Estimate Y+ and Mesh Sizing](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7301521611843674112-N_Y1/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - Fluid Dynamics Modeling - [isoVelocity Elements](https://www.linkedin.com/posts/aliyar-javadi-4b078124_fluiddynamics-fluidmechanics-heattransfer-ugcPost-7283070122280271873-HtxR?utm_source=share&utm_medium=member_android)
 - [RANS Turbulence Modelling](https://www.linkedin.com/posts/rajat-walia_cfd-turbulence-mechanical-activity-7288057889754095616-9SvA/?utm_source=share&utm_medium=member_android)
@@ -60,6 +61,8 @@
 - [Animation of Large-Eddy Simulation of Flow Around a Smooth Sphere at Re = 50,000](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7307626820781125633-6MyW/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Supersonic flow around cylinder (Mach 3)](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_cfd-aerodynamics-engineering-activity-7324387271170797568-npSu/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [supersonic T-38 aircraft flying in formation using Schlieren photography technique](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7323984180676087808-nKjM/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Numerical simulation of a compressible flow through a rocket nozzle using ideal air](https://www.linkedin.com/posts/abdulmohaiman_cfd-ansys-rocket-activity-7326170511439261696-iPR9/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [F-15B Supersonic Natural Laminar Flow Experiment](https://www.linkedin.com/posts/alessandro-rodolfo-de-paula-4420941_f-15b-supersonic-natural-laminar-flow-experiment-activity-7327301202377895937-A8VU/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## 🛠 Miscellaneous
 - [Start CFD Coding](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
