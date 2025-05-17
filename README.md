@@ -54,7 +54,8 @@
 - [AMR in StarCCM+ visualisation](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_cfd-siemens-aerodynamics-activity-7292482032553582592-U_f_?utm_source=share&utm_medium=member_android)
 - [CFD in MATLAB](https://github.com/MathWorks-Teaching-Resources/Computational-Fluid-Dynamics)
 - [Aerospace Tools for Simulation, Design, and Analysis](https://www.linkedin.com/posts/dhruvaerospace_aerospace-tools-for-simulation-design-and-activity-7319614083069018113-9nYk/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [Computers + Math + Physics to decode Biological Flights](https://www.linkedin.com/posts/ugcPost-7328048259917123586-4oOc/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- 
 ## 🎥 Videos and Visualisation
 - [Guide to CFD Podcast](https://www.youtube.com/watch?v=H2orUUhRrZs)
 - [Aerodynamics Experiment - Flow Over Airfoil at 30° AOA](https://www.youtube.com/watch?v=qbMg1G3oTVY)
