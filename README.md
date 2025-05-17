@@ -55,7 +55,7 @@
 - [CFD in MATLAB](https://github.com/MathWorks-Teaching-Resources/Computational-Fluid-Dynamics)
 - [Aerospace Tools for Simulation, Design, and Analysis](https://www.linkedin.com/posts/dhruvaerospace_aerospace-tools-for-simulation-design-and-activity-7319614083069018113-9nYk/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Computers + Math + Physics to decode Biological Flights](https://www.linkedin.com/posts/ugcPost-7328048259917123586-4oOc/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-- 
+
 ## 🎥 Videos and Visualisation
 - [Guide to CFD Podcast](https://www.youtube.com/watch?v=H2orUUhRrZs)
 - [Aerodynamics Experiment - Flow Over Airfoil at 30° AOA](https://www.youtube.com/watch?v=qbMg1G3oTVY)
@@ -64,6 +64,7 @@
 - [supersonic T-38 aircraft flying in formation using Schlieren photography technique](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7323984180676087808-nKjM/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Numerical simulation of a compressible flow through a rocket nozzle using ideal air](https://www.linkedin.com/posts/abdulmohaiman_cfd-ansys-rocket-activity-7326170511439261696-iPR9/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [F-15B Supersonic Natural Laminar Flow Experiment](https://www.linkedin.com/posts/alessandro-rodolfo-de-paula-4420941_f-15b-supersonic-natural-laminar-flow-experiment-activity-7327301202377895937-A8VU/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+-  [diverged solution of a craft with 10 Mach and a dynamic mesh](https://www.linkedin.com/posts/ankurdev8980aa17a_a-lot-of-things-can-go-wrong-in-your-set-activity-7327216357341638658-lq9Y/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## 🛠 Miscellaneous
 - [Start CFD Coding](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
