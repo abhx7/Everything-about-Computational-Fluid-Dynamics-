@@ -11,6 +11,7 @@
 - [Learning ML for CFD](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_cfd-fluidmechanics-aerospace-activity-7293161509503778817-5Uha/?utm_source=share&utm_medium=member_android) 
 - [CFD Fundaes](https://www.linkedin.com/posts/suraj-thakur-2062421ba_here-is-a-document-for-your-reference-activity-7301223929296101376-h0wf/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Start CFD coding](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Advanced CFD Lectures by Dr. Milovan Peric!](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7330457259967242240-neEz/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## 🔍 Topics
 - [Navier-Stokes Equation](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-mechanicalengineering-activity-7297200990796058624-4K42/?utm_source=share&utm_medium=member_android)
@@ -45,7 +46,9 @@
 - [Machine Learning Models for CFD Simulations](https://www.linkedin.com/posts/rajat-walia_cfd-mechanical-machinelearning-activity-7315236966281748480-TPF6/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [AI/ML in CFD Solvers repository!](https://www.linkedin.com/posts/rajat-walia_cfd-mechanical-machinelearning-activity-7318136082959683584-Yn-l/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Computational Fluid Dynamics: Basics, Mathematical Foundations, and Industrial Applications](https://www.everyeng.com/blog/a509b413/computational-fluid-dynamics-basics-mathematical-foundations-and-industrial-applications)
-  
+- [Exciting Resources for ANSYS Users](https://www.linkedin.com/posts/ilyasserrays_ansys-engineering-simulation-activity-7329883998757789698-SIIy/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [CFD Books to Read in 2025](https://www.linkedin.com/posts/akash-singh-34a581121_cfd-books-you-should-read-in-2025-activity-7329332346665553920-Uzx3/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+ 
 ## 🔧 Tools & Simulations
 - [NACA-0012 Airfoil Simulation with Deploying Spoiler](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_mechanicalengineering-aerospace-aerodynamics-activity-7281610390759718912-Khos/?utm_source=share&utm_medium=member_android)
 - [Flow Past 3D Cylinder](https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalengineering-cfd-activity-7291724282307526656-noTG/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
@@ -65,6 +68,7 @@
 - [Numerical simulation of a compressible flow through a rocket nozzle using ideal air](https://www.linkedin.com/posts/abdulmohaiman_cfd-ansys-rocket-activity-7326170511439261696-iPR9/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [F-15B Supersonic Natural Laminar Flow Experiment](https://www.linkedin.com/posts/alessandro-rodolfo-de-paula-4420941_f-15b-supersonic-natural-laminar-flow-experiment-activity-7327301202377895937-A8VU/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 -  [diverged solution of a craft with 10 Mach and a dynamic mesh](https://www.linkedin.com/posts/ankurdev8980aa17a_a-lot-of-things-can-go-wrong-in-your-set-activity-7327216357341638658-lq9Y/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+-  [Aerodynamics of a Flying Saucer - CFD Project](https://www.linkedin.com/posts/aryanarasimharaju_cfd-ansysfluent-aerospaceengineering-activity-7328862554657554432-Eye-/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## 🛠 Miscellaneous
 - [Start CFD Coding](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
