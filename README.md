@@ -32,7 +32,9 @@
   [SIMPLE Algorithm](https://www.linkedin.com/posts/mvusi-mugaba-424577206_cfd-automotive-fluiddynamics-activity-7324466108650975233--zld/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Couette and Poiseulle Flow](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7314149804090003456-5YFp/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Why Non-Dimensional Numbers Matter in Fluid Mechanics](https://www.linkedin.com/posts/sijalahmed_cfd-fluidmechanics-engineering-activity-7322851938344038401-XrCe/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [Periodic Boundary Conditions in CFD](https://www.linkedin.com/posts/ahafezz_cfd-engineeringsimulation-ansys-activity-7330521436987568129-SLle/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Mesh Refinement Hypothesis for Leading and Trailing Edges of Turbine Blade](https://www.linkedin.com/posts/bekkai-riyadh-3b076334a_mesh-refinement-hypothesis-for-leading-and-activity-7331498649526427648-96QP/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+    
 ## 📖 References
 - [Step by Step CFD Process](https://www.linkedin.com/posts/rajat-walia_cfd-simulation-mechanical-activity-7297842357389955073-4I9c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [DNS Databases](https://home.iitm.ac.in/vagesh/links.html)
@@ -48,7 +50,7 @@
 - [Computational Fluid Dynamics: Basics, Mathematical Foundations, and Industrial Applications](https://www.everyeng.com/blog/a509b413/computational-fluid-dynamics-basics-mathematical-foundations-and-industrial-applications)
 - [Exciting Resources for ANSYS Users](https://www.linkedin.com/posts/ilyasserrays_ansys-engineering-simulation-activity-7329883998757789698-SIIy/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [CFD Books to Read in 2025](https://www.linkedin.com/posts/akash-singh-34a581121_cfd-books-you-should-read-in-2025-activity-7329332346665553920-Uzx3/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
- 
+   
 ## 🔧 Tools & Simulations
 - [NACA-0012 Airfoil Simulation with Deploying Spoiler](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_mechanicalengineering-aerospace-aerodynamics-activity-7281610390759718912-Khos/?utm_source=share&utm_medium=member_android)
 - [Flow Past 3D Cylinder](https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalengineering-cfd-activity-7291724282307526656-noTG/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
@@ -59,7 +61,7 @@
 - [Aerospace Tools for Simulation, Design, and Analysis](https://www.linkedin.com/posts/dhruvaerospace_aerospace-tools-for-simulation-design-and-activity-7319614083069018113-9nYk/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Computers + Math + Physics to decode Biological Flights](https://www.linkedin.com/posts/ugcPost-7328048259917123586-4oOc/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
-## 🎥 Videos and Visualisation
+## 🎥 Videos and Visualisation and Case Studies
 - [Guide to CFD Podcast](https://www.youtube.com/watch?v=H2orUUhRrZs)
 - [Aerodynamics Experiment - Flow Over Airfoil at 30° AOA](https://www.youtube.com/watch?v=qbMg1G3oTVY)
 - [Animation of Large-Eddy Simulation of Flow Around a Smooth Sphere at Re = 50,000](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7307626820781125633-6MyW/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
@@ -68,8 +70,10 @@
 - [Numerical simulation of a compressible flow through a rocket nozzle using ideal air](https://www.linkedin.com/posts/abdulmohaiman_cfd-ansys-rocket-activity-7326170511439261696-iPR9/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [F-15B Supersonic Natural Laminar Flow Experiment](https://www.linkedin.com/posts/alessandro-rodolfo-de-paula-4420941_f-15b-supersonic-natural-laminar-flow-experiment-activity-7327301202377895937-A8VU/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 -  [diverged solution of a craft with 10 Mach and a dynamic mesh](https://www.linkedin.com/posts/ankurdev8980aa17a_a-lot-of-things-can-go-wrong-in-your-set-activity-7327216357341638658-lq9Y/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
--  [Aerodynamics of a Flying Saucer - CFD Project](https://www.linkedin.com/posts/aryanarasimharaju_cfd-ansysfluent-aerospaceengineering-activity-7328862554657554432-Eye-/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [Aerodynamics of a Flying Saucer - CFD Project](https://www.linkedin.com/posts/aryanarasimharaju_cfd-ansysfluent-aerospaceengineering-activity-7328862554657554432-Eye-/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [CFD Study on Wind Turbine Blade Flow Behavior](https://www.linkedin.com/posts/sharmarahul01_key-learnings-from-recent-cfd-study-on-activity-7330752858050412544-qGDf/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [e Best Position for the Nacelle on a Subsonic Wing? ✈️](https://www.linkedin.com/posts/mohamed-janan-baab57223_aerospaceengineering-catiav5-ansysfluent-activity-7331053553131606016-qvZy/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+   
 ## 🛠 Miscellaneous
 - [Start CFD Coding](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Latest in CFD](https://www.linkedin.com/posts/jousefmurad_engineering-cfd-simulation-activity-7291359445622636544-dp1W/?utm_source=share&utm_medium=member_android)
@@ -80,4 +84,5 @@
 - [Paradoxical Nature of Turbulent Flows at High Reynolds Number: Inviscid Behavior due to High Viscous Dissipations](https://www.linkedin.com/posts/aliyar-javadi-4b078124_fluiddynamics-mechanicalengineering-aerospace-activity-7312149838651904000-3Td4/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [CFD Contributions to A380 development!](https://www.linkedin.com/posts/rajat-walia_cfd-mechanical-aerospace-activity-7317792557541859328-emDr/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Turbulence modeling summary!](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7322484714290716672-8Qro/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [STL ≠ Simulation-Ready](https://www.linkedin.com/posts/damjangnjidic_fea-cfd-cad-activity-7331261295393923072-UdFx/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
