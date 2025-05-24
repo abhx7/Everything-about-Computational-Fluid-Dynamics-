@@ -73,6 +73,7 @@
 - [Aerodynamics of a Flying Saucer - CFD Project](https://www.linkedin.com/posts/aryanarasimharaju_cfd-ansysfluent-aerospaceengineering-activity-7328862554657554432-Eye-/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [CFD Study on Wind Turbine Blade Flow Behavior](https://www.linkedin.com/posts/sharmarahul01_key-learnings-from-recent-cfd-study-on-activity-7330752858050412544-qGDf/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [e Best Position for the Nacelle on a Subsonic Wing? ✈️](https://www.linkedin.com/posts/mohamed-janan-baab57223_aerospaceengineering-catiav5-ansysfluent-activity-7331053553131606016-qvZy/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Shock Wave Visualization in a Convergent-Divergent (CD) Nozzle](https://www.linkedin.com/posts/rupesh-joka_cfd-shockwaves-cdnozzle-activity-7331957012362158081-ovJn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
    
 ## 🛠 Miscellaneous
 - [Start CFD Coding](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
