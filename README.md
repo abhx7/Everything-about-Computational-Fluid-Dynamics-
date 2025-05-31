@@ -34,7 +34,10 @@
 - [Why Non-Dimensional Numbers Matter in Fluid Mechanics](https://www.linkedin.com/posts/sijalahmed_cfd-fluidmechanics-engineering-activity-7322851938344038401-XrCe/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Periodic Boundary Conditions in CFD](https://www.linkedin.com/posts/ahafezz_cfd-engineeringsimulation-ansys-activity-7330521436987568129-SLle/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Mesh Refinement Hypothesis for Leading and Trailing Edges of Turbine Blade](https://www.linkedin.com/posts/bekkai-riyadh-3b076334a_mesh-refinement-hypothesis-for-leading-and-activity-7331498649526427648-96QP/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-    
+- Understanding the Power of [Dimensionless Numbers in Heat and Fluid Flow](https://www.linkedin.com/posts/mohamed-megahed-4a11951b6_engineering-heattransfer-cfd-activity-7332494266457292800-vD7z/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) !
+- [Mesh Skewness in CFD](https://www.linkedin.com/posts/ahafezz_cfd-ansys-fluent-activity-7332333365167046657-466q/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ), Why It Matters?
+- 🔍 Understanding [Strouhal Number in CFD](https://www.linkedin.com/posts/ragh-ahmed-802b35267_cfd-fluiddynamics-fluidmechanics-activity-7332148695724879872-u6wd/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+       
 ## 📖 References
 - [Step by Step CFD Process](https://www.linkedin.com/posts/rajat-walia_cfd-simulation-mechanical-activity-7297842357389955073-4I9c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [DNS Databases](https://home.iitm.ac.in/vagesh/links.html)
@@ -50,7 +53,8 @@
 - [Computational Fluid Dynamics: Basics, Mathematical Foundations, and Industrial Applications](https://www.everyeng.com/blog/a509b413/computational-fluid-dynamics-basics-mathematical-foundations-and-industrial-applications)
 - [Exciting Resources for ANSYS Users](https://www.linkedin.com/posts/ilyasserrays_ansys-engineering-simulation-activity-7329883998757789698-SIIy/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [CFD Books to Read in 2025](https://www.linkedin.com/posts/akash-singh-34a581121_cfd-books-you-should-read-in-2025-activity-7329332346665553920-Uzx3/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-   
+ - Real-world engineering and simulation is messy. Here’s a [FULL list](https://www.linkedin.com/posts/nassermushtaq_cae-cfd-fluids-activity-7332725948565356545-RQSv/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) of my most valuable engineering / simulation / CFD deep-dives
+  
 ## 🔧 Tools & Simulations
 - [NACA-0012 Airfoil Simulation with Deploying Spoiler](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_mechanicalengineering-aerospace-aerodynamics-activity-7281610390759718912-Khos/?utm_source=share&utm_medium=member_android)
 - [Flow Past 3D Cylinder](https://www.linkedin.com/posts/rajat-walia_mechanical-mechanicalengineering-cfd-activity-7291724282307526656-noTG/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
@@ -60,7 +64,8 @@
 - [CFD in MATLAB](https://github.com/MathWorks-Teaching-Resources/Computational-Fluid-Dynamics)
 - [Aerospace Tools for Simulation, Design, and Analysis](https://www.linkedin.com/posts/dhruvaerospace_aerospace-tools-for-simulation-design-and-activity-7319614083069018113-9nYk/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Computers + Math + Physics to decode Biological Flights](https://www.linkedin.com/posts/ugcPost-7328048259917123586-4oOc/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [Fluent](https://arcs-njit-edu.github.io/Docs/Software/CFD/fluent/#using-fluent)
+ 
 ## 🎥 Videos and Visualisation and Case Studies
 - [Guide to CFD Podcast](https://www.youtube.com/watch?v=H2orUUhRrZs)
 - [Aerodynamics Experiment - Flow Over Airfoil at 30° AOA](https://www.youtube.com/watch?v=qbMg1G3oTVY)
@@ -74,7 +79,11 @@
 - [CFD Study on Wind Turbine Blade Flow Behavior](https://www.linkedin.com/posts/sharmarahul01_key-learnings-from-recent-cfd-study-on-activity-7330752858050412544-qGDf/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [e Best Position for the Nacelle on a Subsonic Wing? ✈️](https://www.linkedin.com/posts/mohamed-janan-baab57223_aerospaceengineering-catiav5-ansysfluent-activity-7331053553131606016-qvZy/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Shock Wave Visualization in a Convergent-Divergent (CD) Nozzle](https://www.linkedin.com/posts/rupesh-joka_cfd-shockwaves-cdnozzle-activity-7331957012362158081-ovJn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-   
+- [CFD Analysis of Solar-Assisted Bicycle](https://www.linkedin.com/posts/muhammad-ejaz-ramzan-4a984422b_cfd-analysis-of-solar-bicycle-activity-7333562882414067712-R_S1/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Design and Developments of Soccer Football Lancher](https://www.linkedin.com/posts/muhammad-ejaz-ramzan-4a984422b_cfd-analysis-of-soccer-football-activity-7332853628896018433-MLnx/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [CFD simulation results of a Shell and Tube Heat Exchanger](https://www.linkedin.com/posts/vishnu-kv-79192218b_excited-to-share-the-cfd-simulation-results-activity-7331771462195826688-q_SV/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) performed using ANSYS FLUENT
+- [Flow Analysis Over an F-16 Fighter Jet](https://www.linkedin.com/posts/hari2oo3_cfd-ansys-aerospaceengineering-activity-7332490111756001280-FiGi/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – A Deep Dive into High-Speed Aerodynamics
+
 ## 🛠 Miscellaneous
 - [Start CFD Coding](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Latest in CFD](https://www.linkedin.com/posts/jousefmurad_engineering-cfd-simulation-activity-7291359445622636544-dp1W/?utm_source=share&utm_medium=member_android)
