@@ -12,7 +12,8 @@
 - [CFD Fundaes](https://www.linkedin.com/posts/suraj-thakur-2062421ba_here-is-a-document-for-your-reference-activity-7301223929296101376-h0wf/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Start CFD coding](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Advanced CFD Lectures by Dr. Milovan Peric!](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7330457259967242240-neEz/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [a comprehensive library of ANSYS tutorials and simulation videos](https://www.linkedin.com/posts/pragada-bhargav-606448275_ansys-cfd-fluent-activity-7334860191219228672-6DDA/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+ 
 ## 🔍 Topics
 - [Navier-Stokes Equation](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-mechanicalengineering-activity-7297200990796058624-4K42/?utm_source=share&utm_medium=member_android)
 - [Lessons for Meshing](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7302915770806648832-Lg49/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
@@ -37,7 +38,8 @@
 - Understanding the Power of [Dimensionless Numbers in Heat and Fluid Flow](https://www.linkedin.com/posts/mohamed-megahed-4a11951b6_engineering-heattransfer-cfd-activity-7332494266457292800-vD7z/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) !
 - [Mesh Skewness in CFD](https://www.linkedin.com/posts/ahafezz_cfd-ansys-fluent-activity-7332333365167046657-466q/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ), Why It Matters?
 - 🔍 Understanding [Strouhal Number in CFD](https://www.linkedin.com/posts/ragh-ahmed-802b35267_cfd-fluiddynamics-fluidmechanics-activity-7332148695724879872-u6wd/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-       
+- 🔍 [Jacobian in FEA](https://www.linkedin.com/posts/ram-babu-kumar-47a374339_fea-jacobian-meshquality-activity-7334247766363172865-nh-X/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – The Hidden Key to Mesh Quality:-🤠🤠🤠
+        
 ## 📖 References
 - [Step by Step CFD Process](https://www.linkedin.com/posts/rajat-walia_cfd-simulation-mechanical-activity-7297842357389955073-4I9c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [DNS Databases](https://home.iitm.ac.in/vagesh/links.html)
@@ -83,6 +85,7 @@
 - [Design and Developments of Soccer Football Lancher](https://www.linkedin.com/posts/muhammad-ejaz-ramzan-4a984422b_cfd-analysis-of-soccer-football-activity-7332853628896018433-MLnx/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [CFD simulation results of a Shell and Tube Heat Exchanger](https://www.linkedin.com/posts/vishnu-kv-79192218b_excited-to-share-the-cfd-simulation-results-activity-7331771462195826688-q_SV/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) performed using ANSYS FLUENT
 - [Flow Analysis Over an F-16 Fighter Jet](https://www.linkedin.com/posts/hari2oo3_cfd-ansys-aerospaceengineering-activity-7332490111756001280-FiGi/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – A Deep Dive into High-Speed Aerodynamics
+- [3D CFD simulation using CFD the hydrodynamics of a multiphase airlift bubble reactor](https://www.linkedin.com/posts/saber-kiani-64500112a_cfd-comsolmultiphysics-afcansysfluent-activity-7335233370458591232-vGFp/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## 🛠 Miscellaneous
 - [Start CFD Coding](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
