@@ -13,6 +13,7 @@
 - [Start CFD coding](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7306955283765833729-w2u2?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Advanced CFD Lectures by Dr. Milovan Peric!](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-automotive-activity-7330457259967242240-neEz/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [a comprehensive library of ANSYS tutorials and simulation videos](https://www.linkedin.com/posts/pragada-bhargav-606448275_ansys-cfd-fluent-activity-7334860191219228672-6DDA/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Learning simulation can be hard - videos make applied CFD that much easier to visualise](https://www.linkedin.com/posts/nassermushtaq_cfd-cae-openfoam-ugcPost-7343588554326917121-W-rs/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
  
 ## 🔍 Topics
 - [Navier-Stokes Equation](https://www.linkedin.com/posts/rajat-walia_mechanical-aerospace-mechanicalengineering-activity-7297200990796058624-4K42/?utm_source=share&utm_medium=member_android)
