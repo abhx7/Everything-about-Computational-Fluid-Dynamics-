@@ -68,6 +68,7 @@
 - [Aerospace Tools for Simulation, Design, and Analysis](https://www.linkedin.com/posts/dhruvaerospace_aerospace-tools-for-simulation-design-and-activity-7319614083069018113-9nYk/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Computers + Math + Physics to decode Biological Flights](https://www.linkedin.com/posts/ugcPost-7328048259917123586-4oOc/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Fluent](https://arcs-njit-edu.github.io/Docs/Software/CFD/fluent/#using-fluent)
+- [A collection of ready-to-run OpenFOAM cases!](https://www.linkedin.com/posts/nassermushtaq_openfoam-simulation-cfd-activity-7345771916013543425-a_iL/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
  
 ## 🎥 Videos and Visualisation and Case Studies
 - [Guide to CFD Podcast](https://www.youtube.com/watch?v=H2orUUhRrZs)
