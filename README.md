@@ -40,7 +40,8 @@
 - [Mesh Skewness in CFD](https://www.linkedin.com/posts/ahafezz_cfd-ansys-fluent-activity-7332333365167046657-466q/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ), Why It Matters?
 - 🔍 Understanding [Strouhal Number in CFD](https://www.linkedin.com/posts/ragh-ahmed-802b35267_cfd-fluiddynamics-fluidmechanics-activity-7332148695724879872-u6wd/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - 🔍 [Jacobian in FEA](https://www.linkedin.com/posts/ram-babu-kumar-47a374339_fea-jacobian-meshquality-activity-7334247766363172865-nh-X/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) – The Hidden Key to Mesh Quality:-🤠🤠🤠
-        
+- [💦 Machine Learning in Fluid Dynamics](https://github.com/YunchaoYang/Machine_Learning_Fluid_Dynamics?tab=readme-ov-file)
+         
 ## 📖 References
 - [Step by Step CFD Process](https://www.linkedin.com/posts/rajat-walia_cfd-simulation-mechanical-activity-7297842357389955073-4I9c/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [DNS Databases](https://home.iitm.ac.in/vagesh/links.html)
@@ -57,6 +58,7 @@
 - [Exciting Resources for ANSYS Users](https://www.linkedin.com/posts/ilyasserrays_ansys-engineering-simulation-activity-7329883998757789698-SIIy/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [CFD Books to Read in 2025](https://www.linkedin.com/posts/akash-singh-34a581121_cfd-books-you-should-read-in-2025-activity-7329332346665553920-Uzx3/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
  - Real-world engineering and simulation is messy. Here’s a [FULL list](https://www.linkedin.com/posts/nassermushtaq_cae-cfd-fluids-activity-7332725948565356545-RQSv/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) of my most valuable engineering / simulation / CFD deep-dives
+ - [interesting papers using OpenFOAM](https://www.linkedin.com/posts/nassermushtaq_openfoam-simulation-cfd-activity-7348308630133256193-ljkB/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
   
 ## 🔧 Tools & Simulations
 - [NACA-0012 Airfoil Simulation with Deploying Spoiler](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_mechanicalengineering-aerospace-aerodynamics-activity-7281610390759718912-Khos/?utm_source=share&utm_medium=member_android)
